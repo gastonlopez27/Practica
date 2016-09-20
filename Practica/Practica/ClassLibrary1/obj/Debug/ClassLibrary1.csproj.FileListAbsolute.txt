@@ -1,0 +1,5 @@
+C:\xampp\htdocs\Practica\Practica\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Practica\Practica\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\xampp\htdocs\Practica\Practica\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\xampp\htdocs\Practica\Practica\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\xampp\htdocs\Practica\Practica\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

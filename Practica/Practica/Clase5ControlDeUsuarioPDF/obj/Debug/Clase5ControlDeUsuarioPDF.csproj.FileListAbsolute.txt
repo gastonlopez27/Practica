@@ -1,0 +1,11 @@
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\bin\Debug\Clase5ControlDeUsuarioPDF.exe.config
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\bin\Debug\Clase5ControlDeUsuarioPDF.exe
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\bin\Debug\Clase5ControlDeUsuarioPDF.pdb
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\bin\Debug\ClassLibrary1.dll
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\bin\Debug\ClassLibrary1.pdb
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\obj\Debug\Clase5ControlDeUsuarioPDF.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\obj\Debug\Clase5ControlDeUsuarioPDF.Form1.resources
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\obj\Debug\Clase5ControlDeUsuarioPDF.Properties.Resources.resources
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\obj\Debug\Clase5ControlDeUsuarioPDF.csproj.GenerateResource.Cache
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\obj\Debug\Clase5ControlDeUsuarioPDF.exe
+C:\xampp\htdocs\Practica\Practica\Clase5ControlDeUsuarioPDF\obj\Debug\Clase5ControlDeUsuarioPDF.pdb
